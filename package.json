@@ -17,18 +17,18 @@
     "coverage": "lab -v -P test -m 5000 -r html > coverage.html"
   },
   "dependencies": {
-    "body-parser": "^1.18.2",
+    "body-parser": "1.18.x",
     "cors": "2.8.x",
-    "express": "^4.16.2",
+    "express": "4.16.x",
     "http-status": "1.0.x",
-    "moment": "^2.19.1",
+    "moment": "2.19.x",
     "uuid": "3.x"
   },
   "devDependencies": {
     "code": "5.1.x",
-    "coveralls": "3.0.x",
-    "lab": "15.1.x",
-    "fs-extra": "4.0.x"
+    "coveralls": "2.13.x",
+    "fs-extra": "4.0.x",
+    "lab": "14.1.x"
   },
   "url": "https://github.com/continuul/disco-express",
   "bugs": {
