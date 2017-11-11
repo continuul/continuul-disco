@@ -59,3 +59,6 @@ typings/
 
 # idea project files
 .idea
+
+# Coverage output
+coverage.html
