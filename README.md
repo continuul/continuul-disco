@@ -6,10 +6,10 @@
 
 Last update: 11/11/2017
 
-[![npm version][npm-badge]][npm-url]
-[![Build Status][travis-badge]][travis-url]
-[![Dependency Status][david-badge]][david-url]
-[![Coveralls][BadgeCoveralls]][Coveralls]
+<!--[![npm version][npm-badge]][npm-url]-->
+<!--[![Build Status][travis-badge]][travis-url]-->
+<!--[![Dependency Status][david-badge]][david-url]-->
+<!--[![Coveralls][BadgeCoveralls]][Coveralls]-->
 
 [Continuul][] provides a cloud native **distributed** container database
 management solution for open-source databases. The solution is build upon
